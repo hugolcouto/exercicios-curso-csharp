@@ -1,13 +1,24 @@
-﻿class Program
+﻿using DotNetEnv;
+
+class Program
 {
     public static void Main(string[] args)
     {
-        string sourcePath = @"/Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/file1.txt";
-        string targetPath = @"/Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/file2.txt";
+        Env.Load();
+
+        string sourcePath = Path.Combine(Environment.GetEnvironmentVariable("DIR_PATH")!, "file1.txt");
+        string targetPath = Path.Combine(Environment.GetEnvironmentVariable("DIR_PATH")!, "file2.txt");
 
         try
         {
             FileInfo fileInfo = new FileInfo(sourcePath);
+            FileInfo fileInfo2 = new FileInfo(targetPath);
+
+            if (fileInfo2.Exists)
+            {
+                fileInfo2.Delete();
+            }
+
             fileInfo.CopyTo(targetPath);
             string[] lines = File.ReadAllLines(sourcePath);
 
