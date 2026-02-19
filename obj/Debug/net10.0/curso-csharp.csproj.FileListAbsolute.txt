@@ -12,3 +12,4 @@
 /Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/obj/Debug/net10.0/curso-csharp.pdb
 /Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/obj/Debug/net10.0/curso-csharp.genruntimeconfig.cache
 /Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/obj/Debug/net10.0/ref/curso-csharp.dll
+/Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/obj/Debug/net10.0/curso-csharp.sourcelink.json
