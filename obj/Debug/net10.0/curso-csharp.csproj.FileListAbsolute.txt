@@ -12,3 +12,12 @@
 /Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/obj/Debug/net10.0/curso-csharp.pdb
 /Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/obj/Debug/net10.0/curso-csharp.genruntimeconfig.cache
 /Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/obj/Debug/net10.0/ref/curso-csharp.dll
+/Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/bin/Debug/net10.0/.env
+/Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/bin/Debug/net10.0/DotNetEnv.dll
+/Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/bin/Debug/net10.0/Microsoft.Extensions.Configuration.dll
+/Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/bin/Debug/net10.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/bin/Debug/net10.0/Microsoft.Extensions.Primitives.dll
+/Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/bin/Debug/net10.0/Sprache.dll
+/Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/obj/Debug/net10.0/curso-csharp.csproj.AssemblyReference.cache
+/Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/obj/Debug/net10.0/curso-csharp.sourcelink.json
+/Users/hugolcouto/Estudos/udemy/primeiro-semestre/dotnet/curso-csharp/obj/Debug/net10.0/curso-cs.669499C8.Up2Date
